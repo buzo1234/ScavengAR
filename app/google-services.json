@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125926608097",
+    "project_id": "kinnyblog",
+    "storage_bucket": "kinnyblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125926608097:android:438555647fd947a2c9fba0",
+        "android_client_info": {
+          "package_name": "com.example.kinnyblogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125926608097-emrjfp36agndjv0okbq8bvuuu5pnvbte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bchFPC-PZZU7M8LC3-6-M34dCigBdLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125926608097-emrjfp36agndjv0okbq8bvuuu5pnvbte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
